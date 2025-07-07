@@ -11,7 +11,7 @@ import pytesseract
 # ----------------------------
 
 BUCKET_NAME = 'resume-analyzer-madan'
-POPLER_PATH = r"C:\Users\MOKKA MADANMOHAN\OneDrive\Desktop\resume analyser\Library\bin"
+POPLER_PATH = r"C:\Users\MOKKA MADANMOHAN\OneDrive\Desktop\resume analyser\poppler-24.08.0\Library\bin"
 
 # ----------------------------
 # Upload Resume to S3 Bucket
