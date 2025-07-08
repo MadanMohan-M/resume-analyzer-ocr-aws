@@ -1,4 +1,6 @@
 #!/bin/bash
 
-# Install system dependencies
-apt-get update && apt-get install -y tesseract-ocr poppler-utils
+echo "🔧 Installing Poppler and Tesseract..."
+apt-get update && apt-get install -y poppler-utils tesseract-ocr
+
+echo "✅ Installation completed."
