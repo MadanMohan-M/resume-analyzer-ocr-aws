@@ -5,7 +5,7 @@ import platform
 from pdf2image import convert_from_bytes
 from PIL import Image
 import pytesseract
-from matcher import match_resume_to_jd, clean_and_tokenize
+from jd_matcher import match_resume_to_jd, clean_and_tokenize
 
 # ----------------------------
 # Configuration
