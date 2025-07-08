@@ -64,3 +64,8 @@ AWS_SECRET_ACCESS_KEY
 AWS_DEFAULT_REGION
 
 PYTHON_VERSION = 3.10
+
+# 🧠 AI Resume Analyzer
+
+**🔴 Live App**: 👉 [https://resume-analyzer-ocr-aws.onrender.com](https://resume-analyzer-ocr-aws.onrender.com/)
+
